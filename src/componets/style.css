@@ -1,0 +1,22 @@
+body{
+    background-image: url(../bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: larger;
+}
+.box{
+    height: 300px;
+    width: 500px;
+    background-repeat: no-repeat;
+    background-size: 500px 300px;
+    margin-left: 35%;
+    /* font-size: medium;    */
+}
+.inputfield
+{
+    border-radius: 2px;
+    border: 1px solid black;
+}
+.searchbtn{ 
+    color: black;
+}
